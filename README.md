@@ -8,6 +8,7 @@ An aspiring Software Engineer or Video Game Programmer. The languages I am learn
 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
 
 ---
 <!--
