@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Logan Gaither!
-![Twitch Status](https://img.shields.io/twitch/status/loganispg?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/loganispg?style=for-the-badge)
 <!--
 **LoganGaither/LoganGaither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
