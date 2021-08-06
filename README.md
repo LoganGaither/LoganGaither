@@ -1,7 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Logan Gaither!
 ![Twitch Status](https://img.shields.io/twitch/status/loganispg?style=for-the-badge)
 
-An aspiring Software Engineer or Video Game Programmer.
+An aspiring Software Engineer or Video Game Programmer. The languages I am learning can be seen in the Toolbox section.
+
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
+
+---
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
